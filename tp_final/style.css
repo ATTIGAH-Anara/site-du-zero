@@ -31,12 +31,14 @@ body
     background: url('images/fond_jaune.png');
     font-family: 'Trebuchet MS', Arial, sans-serif;
     color: #181818;
+    margin: 0;
 }
 
 #bloc_page
 {
-    width: 900px;
+    max-width: 900px;
     margin: auto;
+    min-width: 320px;
 }
 
 section h1, footer h1, nav a
