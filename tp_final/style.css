@@ -25,7 +25,7 @@
 }
 
 /* Eléments principaux de la page */
-@media (max-width: 500px){
+@media (max-width: 1000px){
     aside{
         top: 100%;
     }
