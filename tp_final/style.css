@@ -25,6 +25,15 @@
 }
 
 /* Eléments principaux de la page */
+@media (max-width: 700px){
+    aside{
+        top: 100%;
+    }
+    article{
+        margin-right: 0;
+        margin-bottom: 463px;
+    }
+}
 
 body
 {
