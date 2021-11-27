@@ -1,0 +1,15 @@
+article, aside{
+    text-align: justify;
+}
+article{
+    margin-right: 275px;
+}
+aside{
+    position: absolute;
+top: 0;
+right: 0;
+}
+
+section{
+    position: relative;
+}
